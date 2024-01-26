@@ -8,16 +8,16 @@
 #include <ArduinoJson.h>
 
 // WiFi configuration
-#define WIFI_SSID "yeetus"
-#define WIFI_PASSWORD "mmmmmmmgej"
+#define WIFI_SSID "xxx"
+#define WIFI_PASSWORD "xxx"
 
 // Firebase configuration
-#define FIREBASE_HOST "esp8266-vibration-test-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "jrsvIFk264RDmZ3rnJABB8bZ0XSWM6wdvlPkpSMi"
+#define FIREBASE_HOST "xxx" // Replace own
+#define FIREBASE_AUTH "xxx" // Replace own
 
 // Telegram configuration
-#define token "6741792342:AAHTeQHVSVLbGgH1RY2YHqH4mUS78g7MR2A"
-#define chatId "-1002122009060"    // either personal or group -- personal poloski = 927601407   personal aniq = 892635013    group = -1002122009060 
+#define token "xxx"
+#define chatId "xxx"    // Either personal or group
 
 // Vibration and Ultrasonic pin configuration
 #define VIBRATION_PIN D2

@@ -1,15 +1,3 @@
-/*
-   Note: The latest JSON library might not work with the code. 
-   So you may need to downgrade the library to version v5.13.5
-   
-   Created by TAUSEEF AHMED
-   
-   YouTube: https://www.youtube.com/channel/UCOXYfOHgu-C-UfGyDcu5sYw/
-
-   Github: https://github.com/ahmadlogs/
-   
-*/
-
 //FirebaseESP8266.h must be included before ESP8266WiFi.h
 #include <FirebaseESP8266.h>  //https://github.com/mobizt/Firebase-ESP8266
 #include <ESP8266WiFi.h>
@@ -20,10 +8,10 @@
 //Note: The latest JSON library might not work with the code. 
 //So you may need to downgrade the library to version v5.13.5
 
-#define FIREBASE_HOST "esp8266-vibration-test-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "jrsvIFk264RDmZ3rnJABB8bZ0XSWM6wdvlPkpSMi"
-#define WIFI_SSID "yeetus"
-#define WIFI_PASSWORD "mmmmmmmgej"
+#define FIREBASE_HOST "xxx"
+#define FIREBASE_AUTH "xxx"
+#define WIFI_SSID "xxx"
+#define WIFI_PASSWORD "xxx"
 
 //Define FirebaseESP8266 data object
 FirebaseData firebaseData;

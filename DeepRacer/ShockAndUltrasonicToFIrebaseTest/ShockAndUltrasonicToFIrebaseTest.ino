@@ -2,12 +2,12 @@
 #include <FirebaseESP8266.h>
 
 // Firebase configuration
-#define FIREBASE_HOST "esp8266-vibration-test-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "jrsvIFk264RDmZ3rnJABB8bZ0XSWM6wdvlPkpSMi"
+#define FIREBASE_HOST "xxx"
+#define FIREBASE_AUTH "xxx"
 
 // WiFi configuration
-#define WIFI_SSID "yeetus"
-#define WIFI_PASSWORD "mmmmmmmgej"
+#define WIFI_SSID "xxx"
+#define WIFI_PASSWORD "xxx"
 
 // Pin configuration
 #define VIBRATION_PIN D2

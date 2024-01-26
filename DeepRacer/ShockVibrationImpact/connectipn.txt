@@ -1,5 +1,0 @@
-// shock sensor
-
-D0 -> D2
-GND -> G
-VCC -> VIN

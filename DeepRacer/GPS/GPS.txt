@@ -1,0 +1,4 @@
+TX -> D5
+RX -> D6
+VCC -> 3V3
+GND -> GND

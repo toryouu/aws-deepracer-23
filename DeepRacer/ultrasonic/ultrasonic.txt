@@ -1,6 +1,0 @@
-Vin -> VCC
-G -> Gnd
-D5 -> Echo
-D6 -> Trig
-
-https://randomnerdtutorials.com/esp8266-nodemcu-hc-sr04-ultrasonic-arduino/

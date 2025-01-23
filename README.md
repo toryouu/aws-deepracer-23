@@ -1,2 +1,4 @@
 # AWS Deepracer
-copium itu benar. copium habis. D;
+some stuff from aws-deepracer comp w/ reinforcement learning algo.
+
+filled with hopiums and copiums.

@@ -1,2 +1,2 @@
-# deepracist
-copium itu benar. copium habis
+# AWS Deepracer
+copium itu benar. copium habis. D;
